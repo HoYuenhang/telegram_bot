@@ -1,0 +1,17 @@
+{
+    "name": "telegram_bot",
+    "version": "1.0.0",
+    "description": "a telegram bot",
+    "main": "app.js",
+    "type": "module",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "md5": "^2.3.0",
+        "node-telegram-bot-api": "^0.56.0"
+    },
+    "devDependencies": {
+        "@types/axios": "^0.14.0",
+        "@types/node-telegram-bot-api": "^0.56.0"
+    }
+}
